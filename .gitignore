@@ -110,6 +110,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/dataset_tempMod_CO_RH/
 
 # Spyder project settings
 .spyderproject
